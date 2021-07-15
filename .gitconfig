@@ -1,0 +1,11 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Guillaume Lequin
+	email = guillaume.lequin713@gmail.com
+	username = Guigan713
+[init]
+	defaultBranch = master

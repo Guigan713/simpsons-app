@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<map name="BorderlessWindow">
+		<binary name="windowGeometry">%00%00%00%13%00%00%00%04%CE%FF%FF%FF%EE%00%00%09%FF%00%00%03%28</binary>
+		<value name="windowVisibility">0</value>
+	</map>
+	<map name="CommonSettings">
+		<value name="DemoDeviceModeEnabled">false</value>
+		<value name="DevicePanelMinimized">true</value>
+		<value name="EnableLightingSDK">true</value>
+		<value name="StartOnStartup">true</value>
+	</map>
+	<map name="DataCollection">
+		<value name="connected_device_list_changed_between_sessions">true</value>
+		<value name="cpu_1_frequency">2,4 GHz</value>
+		<value name="cpu_1_name">Unknown</value>
+		<value name="cpu_1_number_of_cores">8</value>
+		<value name="display_1_resolution">2560_1080 @ 60.00Hz</value>
+		<value name="display_2_resolution">1440_900 @ 60.00Hz</value>
+		<value name="enabled_sdk">true</value>
+		<value name="first_appearance_at">2021-06-25T12:56:05.009Z</value>
+		<value name="first_icue_ver">3.37.140</value>
+		<value name="gpu_1_driver_version">No information was collected</value>
+		<value name="gpu_1_frequency">No information was collected</value>
+		<value name="gpu_1_name">Apple M1</value>
+		<value name="gpu_1_ram_size">0</value>
+		<value name="gpu_1_ram_type">No information was collected</value>
+		<value name="icue_space_opened">false</value>
+		<value name="icue_sw_language">en</value>
+		<value name="icue_version">3.37.140</value>
+		<value name="last_appearance_at">2021-07-05T06:47:55.876Z</value>
+		<value name="macos_code_name"></value>
+		<value name="motherboard_manufacturer">Apple</value>
+		<value name="motherboard_name">Apple</value>
+		<value name="mouse_1_connected_now">true</value>
+		<value name="mouse_1_connection_type">???</value>
+		<value name="mouse_1_device_id">075bfe1f1cd2f002fccdf51b30407ee2</value>
+		<value name="mouse_1_dongle_fw_ver">???</value>
+		<value name="mouse_1_first_appearance">2021-06-25T12:48:37Z</value>
+		<value name="mouse_1_fw_ver">???</value>
+		<value name="mouse_1_last_appearance">2021-06-25T14:15:47Z</value>
+		<value name="mouse_1_manufacturer">Corsair</value>
+		<value name="mouse_1_model_name">KATAR PRO WIRELESS</value>
+		<value name="num_of_connected_corsair_devices">1</value>
+		<value name="num_of_corsair_coolers_connected">0</value>
+		<value name="num_of_corsair_fans_connected">0</value>
+		<value name="num_of_corsair_psu_connected">0</value>
+		<value name="num_of_corsair_ram_modules_connected">0</value>
+		<value name="os_architecture">x64</value>
+		<value name="os_name">macOS</value>
+		<value name="os_version">11.4 20F71</value>
+		<value name="osd_activated">false</value>
+		<value name="previous_close_timestamp">1624630547600</value>
+		<value name="ram_frequency">empty</value>
+		<value name="ram_manufacturer">empty</value>
+		<value name="ram_size">0</value>
+		<value name="ram_type">empty</value>
+		<value name="session_ended">false</value>
+		<value name="show_only_connected_devices">true</value>
+		<value name="start_on_system_startup">true</value>
+		<value name="system_language">French</value>
+		<value name="time_after_last_session_end">232</value>
+		<value name="time_in_background_session_duration">85</value>
+		<value name="time_in_foreground_session_duration">1</value>
+		<value name="total_icue_starts">2</value>
+		<value name="total_num_of_icue_starts">2</value>
+		<value name="total_time_icue_used">94</value>
+		<value name="total_time_used">5219771</value>
+		<value name="user_id">38fb8399619cbe4ffbc511af5d96cb6a7bb0905943abc9a09e97c511942faba31c5b0a2e9728cf553fb61725ed9b0a49fdc600f54a419e30a455b5610f7fbbb0</value>
+	</map>
+	<map name="DeviceListWatcher">
+		<map name="device_list">
+			<map name="1">
+				<value name="device_id">075bfe1f1cd2f002fccdf51b30407ee2</value>
+				<value name="device_type">2</value>
+				<value name="is_connected">true</value>
+				<value name="is_corsair">true</value>
+				<value name="last_appearance">2021-06-25T16:15:47.600</value>
+				<value name="model_name">KATAR PRO WIRELESS</value>
+				<value name="serial_number"></value>
+			</map>
+			<value name="size">1</value>
+		</map>
+		<value name="device_list_saved_correctly">false</value>
+	</map>
+	<map name="Devices">
+		<map name="Demo AX1500i">
+			<map name="{a63d24e0-4080-42ec-b91f-6a1b005f088c}">
+				<value name="DeviceName">DEMO AX1500i</value>
+				<value name="FirstDetected">2021-07-05T08:53:09.999</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{1ef27876-4dc8-4258-9dd5-503acc2f59b9}</value>
+			</map>
+		</map>
+		<map name="Demo Commander Pro">
+			<map name="{b5d82b31-6d75-4ec1-9733-0f4bea954215}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO COMMANDER PRO</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:10.063</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelExtensionsNames">%00%00%04%00%00%00%00%00%40QVector%3CQVector%3Cdev_settings_helper%3A%3ALedChannelExtensionName%3E%20%3E%00%00%00%00%02%00%00%00%00%00%00%00%00</binary>
+				<binary name="LedChannelPositions">%00%00%04%00%00%00%00%00-QVector%3CQVector%3Cdev_manifest%3A%3ALedPosition%3E%20%3E%00%00%00%00%02%00%00%00%00%00%00%00%00</binary>
+				<binary name="LedChannelTypeCombinations">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%02%00%00%00%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%02%00%00%00%0CNotConnected%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{519da926-6b5d-443a-a118-6326e8e01219}</value>
+				<value name="Use16mColorModeEnabled">true</value>
+			</map>
+		</map>
+		<map name="Demo H115i">
+			<map name="{17e0f290-7e55-4741-9c00-0aa2efe97460}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO H115i</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:09.973</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{6a12eb5e-e749-45c9-811d-cdffd3446204}</value>
+				<value name="Use16mColorModeEnabled">true</value>
+			</map>
+		</map>
+		<map name="Demo Lighting Node Pro">
+			<map name="{55220997-7ef3-44d3-be49-717d3f61e383}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO LIGHTING NODE PRO</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:10.045</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelExtensionsNames">%00%00%04%00%00%00%00%00%40QVector%3CQVector%3Cdev_settings_helper%3A%3ALedChannelExtensionName%3E%20%3E%00%00%00%00%02%00%00%00%00%00%00%00%00</binary>
+				<binary name="LedChannelPositions">%00%00%04%00%00%00%00%00-QVector%3CQVector%3Cdev_manifest%3A%3ALedPosition%3E%20%3E%00%00%00%00%02%00%00%00%00%00%00%00%00</binary>
+				<binary name="LedChannelTypeCombinations">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%02%00%00%00%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%02%00%00%00%0CNotConnected%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{5c6355ec-3b94-492d-b4ef-a38ed6babddd}</value>
+				<value name="Use16mColorModeEnabled">true</value>
+			</map>
+		</map>
+		<map name="GLAIVE RGB Demo">
+			<map name="{47e96510-8e3d-412a-91d5-fd716d7a2934}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO GLAIVE RGB</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:09.826</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%001</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{97fb5f76-5a01-40b1-9a64-a5f7986c454c}</value>
+			</map>
+		</map>
+		<map name="K95 RGB Demo">
+			<map name="{757d0b6c-aef1-4f3f-b556-6190a2570efc}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO K95 RGB</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:09.921</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%002</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{461255d2-617e-4d05-8dc5-548d4e59ce78}</value>
+				<value name="Use16mColorModeEnabled">true</value>
+			</map>
+		</map>
+		<map name="KATAR PRO WIRELESS">
+			<map name="{a64520cd-1582-4536-9bdb-29721f2b19f2}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">KATAR PRO WIRELESS</value>
+				<value name="FirstDetected">2021-06-25T14:48:37.228</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%001</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="PowerSaveModeEnabled">false</value>
+				<value name="SleepModeEnabled">true</value>
+				<value name="SleepModeWaitDelaySec">120</value>
+				<value name="StoredIndexedBrightnessLevel">-1</value>
+				<value name="UniqueDeviceId">{6172322e-ddd0-4b7b-8919-7f428372873e}</value>
+				<value name="UniqueDongleId">{4a88d565-76a0-491b-ab43-bf014ab7d025}</value>
+			</map>
+		</map>
+		<map name="KATAR PRO WIRELESS DONGLE">
+			<map name="{ca4d691a-ae96-4efc-b91e-171a45e0e5ff}">
+				<value name="DeviceName">KATAR PRO WIRELESS DONGLE</value>
+				<value name="FirstDetected">2021-06-25T14:48:37.215</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%001</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{12e3bb37-e064-4959-8cf1-33008673b7a2}</value>
+			</map>
+		</map>
+		<map name="MM800RGB Demo">
+			<map name="{5a4239c1-1095-4316-a3ad-c6b41d117fe2}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO MM800 RGB POLARIS</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:09.951</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%001</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{8089b02c-b9ff-4070-8eb8-4dd3b3c19880}</value>
+			</map>
+		</map>
+		<map name="ST100RGB Demo">
+			<map name="{3d20da5b-cd89-4c2e-a3f0-a75db6abb037}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO ST100 RGB</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:10.034</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{0c64c132-517b-4158-9f8f-9f11b0cd4e0a}</value>
+			</map>
+		</map>
+		<binary name="UniqueDeviceIds">%00%00%04%00%00%00%00%005QHash%3CQUuid%2CUniqueDeviceIdStorage%3A%3AUniqueDeviceData%3E%00%00%00%00%0BU%22%09%97~%F3D%D3%BEIq%7D%3Fa%E3%83%FF%FF%FF%F8%FF%FF%FF%F8%00%00%002%00D%00E%00M%00O%00_%00L%00I%00G%00H%00T%00I%00N%00G%00_%00N%00O%00D%00E%00_%00D%00E%00V%00I%00C%00E%FF%FF%FF%FFZB9%C1%10%95C%16%A3%AD%C6%B4%1D%11%7F%E2%FF%FF%FF%FC%FF%FF%FF%FC%FF%FF%FF%FF%FF%FF%FF%FF%17%E0%F2%90~UGA%9C%00%0A%A2%EF%E9t%60%FF%FF%FF%FB%FF%FF%FF%FB%00%00%002%00D%00E%00M%00O%00_%00L%00I%00Q%00U%00I%00D%00_%00C%00O%00O%00L%00E%00R%00_%00D%00E%00V%00I%00C%00E%FF%FF%FF%FF%A6E%20%CD%15%82E6%9B%DB%29r%1F%2B%19%F2%00%00%1B%1C%00%00%1B%AE%FF%FF%FF%FF%00%00%00%08%F2F%FFk8%B1%60%B6%B5%D8%2B1muN%C1%973%0FK%EA%95B%15%FF%FF%FF%F7%FF%FF%FF%F7%00%00%002%00D%00E%00M%00O%00_%00C%00O%00M%00M%00A%00N%00D%00E%00R%00_%00P%00R%00O%00_%00D%00E%00V%00I%00C%00E%FF%FF%FF%FFu%7D%0Bl%AE%F1O%3F%B5Va%90%A2W%0E%FC%FF%FF%FF%FE%FF%FF%FF%FE%FF%FF%FF%FF%FF%FF%FF%FF%BEZ%A4%5D%92%A8H%FF%8C%DE%16%D9%5B%EC%85%00%FF%FF%FF%FD%FF%FF%FF%FD%FF%FF%FF%FF%FF%FF%FF%FFG%E9e%10%8E%3DA%2A%91%D5%FDqmz%294%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%FF%CAMi%1A%AE%96N%FC%B9%1E%17%1AE%E0%E5%FF%00%00%1B%1C%00%00%1B%94%00%00%00%20%008%006%000%009%005%00B%00F%000%006%001%004%00C%006%001%00C%00B%00%00%00%08%F2F%FFk8%B1%60%B6%3D%20%DA%5B%CD%89L.%A3%F0%A7%5D%B6%AB%B07%FF%FF%FF%F9%FF%FF%FF%F9%FF%FF%FF%FF%FF%FF%FF%FF%A6%3D%24%E0%40%80B%EC%B9%1Fj%1B%00_%08%8C%FF%FF%FF%FA%FF%FF%FF%FA%00%00%00%1E%00D%00E%00M%00O%00_%00P%00S%00U%00_%00D%00E%00V%00I%00C%00E%FF%FF%FF%FF</binary>
+		<map name="VOID PRO Wireless Demo">
+			<map name="{be5aa45d-92a8-48ff-8cde-16d95bec8500}">
+				<value name="BrightnessLevel">100</value>
+				<value name="DeviceName">DEMO VOID PRO WIRELESS</value>
+				<value name="DpiBrightnessLevel">100</value>
+				<value name="FirstDetected">2021-07-05T08:53:09.940</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{0f09b35d-aaa5-4e93-bce5-2ee20f3ff66b}</value>
+				<value name="UniqueDongleId">{93a7bd89-494a-45f5-81ab-2d696c4eddfe}</value>
+			</map>
+		</map>
+	</map>
+	<value name="Language">en</value>
+	<map name="QQControlsFileDialog">
+		<binary name="favoriteFolders">%00%00%00%09%00%00%00%00%00</binary>
+		<value name="height">0</value>
+		<value name="sidebarSplit">118.575</value>
+		<value name="sidebarVisible">true</value>
+		<value name="sidebarWidth">80</value>
+		<value name="width">0</value>
+	</map>
+	<map name="SwUpdate">
+		<value name="LastCheckDate">2021-07-09</value>
+	</map>
+</config>
