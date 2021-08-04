@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+#headerTitle {
+    color: #000;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 25px;
+}

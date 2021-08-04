@@ -1,0 +1,25 @@
+
+
+.gameContainer {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    padding: 2rem;
+    width: 100%;
+    border-radius: 3rem;
+    margin-bottom: 3rem;
+}
+
+.gameName {
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    font-size: 28px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.gameInfos {
+    display: flex;
+    justify-content: center;
+}

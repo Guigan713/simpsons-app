@@ -1,0 +1,17 @@
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.clickButton {
+    margin-bottom: 30px;
+    border: 1px solid #000;
+    border-radius: 6px;
+    padding: 5px;
+    font-weight: bold;
+    width: 20%;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
